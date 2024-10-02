@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Darshan_Kanthraj/static/css/main.f855e6bc.css",
-    "main.js": "/Darshan_Kanthraj/static/js/main.6b547f7b.js",
+    "main.js": "/Darshan_Kanthraj/static/js/main.4bac74cb.js",
     "static/js/453.afb7f291.chunk.js": "/Darshan_Kanthraj/static/js/453.afb7f291.chunk.js",
     "index.html": "/Darshan_Kanthraj/index.html",
     "main.f855e6bc.css.map": "/Darshan_Kanthraj/static/css/main.f855e6bc.css.map",
-    "main.6b547f7b.js.map": "/Darshan_Kanthraj/static/js/main.6b547f7b.js.map",
+    "main.4bac74cb.js.map": "/Darshan_Kanthraj/static/js/main.4bac74cb.js.map",
     "453.afb7f291.chunk.js.map": "/Darshan_Kanthraj/static/js/453.afb7f291.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.6b547f7b.js"
+    "static/js/main.4bac74cb.js"
   ]
 }
