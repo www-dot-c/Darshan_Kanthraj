@@ -12,22 +12,18 @@ const navBarRoutes = [
     },
     {
         path: '/Darshan_Kanthraj/qualification/',
-        exact: true,
         main: <Qualification/>
     },
     {
         path: '/Darshan_Kanthraj/workexperience/',
-        exact: true,
         main: <WorkExperience/>
     },
     {
         path: '/Darshan_Kanthraj/personaldetails/',
-        exact: true,
         main: <PersonalDetails/>
     },
     {
         path: '/Darshan_Kanthraj/contact/',
-        exact: true,
         main: <Contact/>
     },
 ]
