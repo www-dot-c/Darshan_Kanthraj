@@ -7,26 +7,26 @@ import WorkExperience from "../pages/workExperience/workexperience";
 
 const navBarRoutes = [
     {
-        path: '/Darshan_Kanthraj',
+        path: '/Darshan_Kanthraj/',
         main: <Profile/>
     },
     {
-        path: '/Darshan_Kanthraj/qualification',
+        path: '/Darshan_Kanthraj/qualification/',
         exact: true,
         main: <Qualification/>
     },
     {
-        path: '/Darshan_Kanthraj/workexperience',
+        path: '/Darshan_Kanthraj/workexperience/',
         exact: true,
         main: <WorkExperience/>
     },
     {
-        path: '/Darshan_Kanthraj/personaldetails',
+        path: '/Darshan_Kanthraj/personaldetails/',
         exact: true,
         main: <PersonalDetails/>
     },
     {
-        path: '/Darshan_Kanthraj/contact',
+        path: '/Darshan_Kanthraj/contact/',
         exact: true,
         main: <Contact/>
     },

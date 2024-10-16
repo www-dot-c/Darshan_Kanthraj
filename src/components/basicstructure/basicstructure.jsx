@@ -108,14 +108,14 @@ const Drawer = styled(MuiDrawer, { shouldForwardProp: (prop) => prop !== 'open' 
 );
 
 const menuItems = [
-  { text: 'Profile', icon: <AccountCircleIcon/>, nav: '/Darshan_Kanthraj' },
-  { text: 'Qualification', icon: <SchoolIcon/>, nav: '/Darshan_Kanthraj/qualification'},
-  { text: 'Work Experience', icon: <WorkHistoryIcon/>, nav: '/Darshan_Kanthraj/workexperience'},
+  { text: 'Profile', icon: <AccountCircleIcon/>, nav: '/Darshan_Kanthraj/' },
+  { text: 'Qualification', icon: <SchoolIcon/>, nav: '/Darshan_Kanthraj/qualification/'},
+  { text: 'Work Experience', icon: <WorkHistoryIcon/>, nav: '/Darshan_Kanthraj/workexperience/'},
 ];
 
 const contacts = [
-  { text: 'Personal Details', icon: <LocationCityIcon/>, nav: '/Darshan_Kanthraj/personaldetails'},
-  { text: 'contact', icon: <MailIcon/>, nav: '/Darshan_Kanthraj/contact'}
+  { text: 'Personal Details', icon: <LocationCityIcon/>, nav: '/Darshan_Kanthraj/personaldetails/'},
+  { text: 'contact', icon: <MailIcon/>, nav: '/Darshan_Kanthraj/contact/'}
 ];
 
 export default function MiniDrawer() {
